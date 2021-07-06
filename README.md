@@ -1,2 +1,3 @@
-# Testes de consoles e alertas
- Estudos Javascript
+# Meu primeiro Commit.
+ 
+Repositório criado durante uma aula.
